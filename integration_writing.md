@@ -1,3 +1,8 @@
+# abbreviations
+
+pov: point of view
+tt: the teacher
+o: author
 
 # Template 1 : 正方、兩方持有不同意見 
 
@@ -5,21 +10,60 @@
 
 - In this lecture, the teacher made several points about whether or not + [eg. the proffessors should attend TV shows] 
 
-- however, the teacher argues[//] that
+- however, the teacher argues (//) that
 
-- [the teacher's lecture] __casts doubts on__ the [author's opinion] by using [a number of points ] __that are contrary__ to these benefits
+- [the teacher's lecture] __ casts doubts on __ the [author's opinion] by using [a number of points ] __that are contrary__ to these benefits
 
-- The first argument that the teacher uses// to question the author's point of view on the reading is ...
+- The first argument that the teacher uses (//) to question [the author's point of view on the reading] is ...
     - the teacher claims that [SENTENCE]
 
-- Another point that the teacher uses// to refute// the [ finding  appeared on the reading is ]
-
+- Another point that the teacher uses (//) to refute (//) the [ findings  appeared on the reading is ]
 
 - The final/last statement that the teacher indicates/ is that [SENTENCE]
-    - [But in the reading article] the authoer states that [SENTENCE]
+    - [But in the reading article] the author states that [SENTENCE]
     -  As a result, the teacher __contends that__ [OPINION]
     -  general TV viewers actually prefer light topics __rather than__ serious lecture for after-dinner viewing
 
-- In conslusion, the points made in this lecture __contrast with__ [those mentioned in the reading]
-    - [Something] might suffer eg. my reputation might suffer
+- In conslusion, the points made in this lecture __contrast with__ [those mentioned points in the reading]
+    - [STH] might suffer eg. my reputation might suffer
     - these three points demostrate [the ideas presented in the reading] are in doubt 
+
+## vocabularies and phrases
+
+- A benefits B / A benefit from / A be beneficial to 
+- 
+
+# Template 2 
+
+## introduction paragraph
+
+- the proffessor and the reading passage __both discuss__ ...
+- however, the proffessor __discords with__ [the ideas in the reading passage that]
+- he offers several reasons to oppose the arguments of this article
+
+## paragraph 1
+
+- first of all, although in the article the author claims that ... , the proffessor indicates that
+- therefore, the proffessor actually believes that
+
+
+## paragraph 2
+
+- second, even though the author states that ... , the professor mentions that ...
+- Thus, the professor can conclude that
+
+## paragraph 3
+
+- finally, while the author indicates ... , the proffessor points out that 
+- as a result, the proffessor contends that
+
+## concluding paragraph
+
+- in sum, [the argument in this article] __ seems to be somewhat convincing at the first glance __, however, the proffessor __ proves its inaccuracy with  __....
+
+
+
+## vocabularies and phrases
+
+- although / even though / while
+- somewhat / a bit of / a sort of

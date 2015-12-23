@@ -1,8 +1,26 @@
 # abbreviations
 
-pov: point of view
-tt: the teacher
-o: author
+- pov: point of view
+- tt: the teacher
+- o: author
+
+### General statement
+
+- the author explains / express / suggest / state / say / discuss / indicate / claim / think / point out / present / describe / declare / asset / reveal / signify
+
+### the lecture challenges the reading
+
+- the proffessor questions ...
+- contest , dispute , query, doubt , object to , protest , oppose, challenge, refute, resist, contradict, conflict with, contend, argue, disagree, debate, suspect, mistrust
+
+### the lecture supports the reading
+
+- the proffessor supports ...
+- support, confirm, validate, verify, advocate, prove, substantiate
+
+### the lecture supplements the reading 
+
+- the proffessor supplements, add, reinforce, complete ...
 
 # Template 1 : 正方、兩方持有不同意見 
 
@@ -59,11 +77,11 @@ o: author
 
 ## concluding paragraph
 
-- in sum, [the argument in this article] __ seems to be somewhat convincing at the first glance __, however, the proffessor __ proves its inaccuracy with  __....
-
+- in sum, [the argument in this article] __seems to be somewhat convincing at the first glance__, however, the proffessor __proves its inaccuracy with__....
 
 
 ## vocabularies and phrases
 
 - although / even though / while
 - somewhat / a bit of / a sort of
+- indicates / mentions / contends / argues / claims 

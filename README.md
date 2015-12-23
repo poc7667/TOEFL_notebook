@@ -6,3 +6,4 @@
 # dictionary
 
 - http://www.learnersdictionary.com/qa/somehow-somewhat-and-somewhere
+- http://www.thesaurus.com/browse/because

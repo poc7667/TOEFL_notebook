@@ -1,0 +1,1 @@
+- therefore,  appropriately, as a consequence, as a result, consequently, correspondingly, duly, equally, ergo, fitly, hence, in consequence, in respect to, in that event, properly, proportionately, respectively, resultantly, so, subsequently, suitably, then, therefore, thus, under the circumstances,

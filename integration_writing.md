@@ -18,6 +18,10 @@
 - the proffessor supports ...
 - support, confirm, validate, verify, advocate, prove, substantiate
 
+### useful phrases 
+
+- the speaker thinks the defects of online encyclopedias cannot obscure the virtues .
+
 ### the lecture supplements the reading 
 
 - the proffessor supplements, add, reinforce, complete ...
@@ -52,6 +56,8 @@
 - 
 
 # Template 2 
+
+in each paragraph , you can mention the author's pov first then talk about the professor's thoughts.
 
 ## introduction paragraph
 

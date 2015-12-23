@@ -1,6 +1,8 @@
 
 # Template 1 : 正方、兩方持有不同意見 
 
+## Sentences
+
 - In this lecture, the teacher made several points about whether or not + [eg. the proffessors should attend TV shows] 
 
 - however, the teacher argues[//] that
@@ -15,8 +17,9 @@
 
 - The final/last statement that the teacher indicates/ is that [SENTENCE]
     - [But in the reading article] the authoer states that [SENTENCE]
-    -  As a result, the teacher __contends that__ 
+    -  As a result, the teacher __contends that__ [OPINION]
+    -  general TV viewers actually prefer light topics __rather than__ serious lecture for after-dinner viewing
 
-- In conslusion, the points made in this lecture contrast with [those mentioned in the reading]
-
-
+- In conslusion, the points made in this lecture __contrast with__ [those mentioned in the reading]
+    - [Something] might suffer eg. my reputation might suffer
+    - these three points demostrate [the ideas presented in the reading] are in doubt 

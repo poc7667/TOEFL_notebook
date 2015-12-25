@@ -1,0 +1,11 @@
+Topic: __classmates are a more important influence than parents on a child's success in school.__
+
+School is the first social group in childrens' life. In order to [適應良好] in a group is every parents' goal. I agree with that classmates have a more deep influence than their parents do. There are already a bunch of thoughts from my points.Let me list my points of view further below.
+
+To begin with, school has a complete environment for [doing] social activites. For example, Not until chidren join a class, don't they really learn how to cooperate with peers, or be an important role in the class. For example, children may have chances to be a leader in a group or being guided by others.No matter which role the children play,this might be the first time they have to take the responsibility in a group life.[Not only they aren't the little princess or price in their family,but also they should take care of others.]
+
+Second, children usually spend more time with classmates in school rather than with parents in home. Especially in Asian countries, in most cases, parents should make money for sustain the family's expenditure. Further, work overtime is a common phenomenon in Asia societies. Most parents won't have the extrac energy to stay with children and cultivate them.On the other side, some parents even ask teachers should take more responsibilities for educating their children. What a ridiculous is that those educating responsibilities should be taken by the parents in the past.
+
+Further more, parents are likely to send their children into cram schools after school. Majority of children should take lessons in the cram schools for scoring high in subjects or learning another skills to acquire more chances for applying ideal schools in the future. I myself, for instance,  in the middle school life, I went to the cram school after school on weekdays.Not until 10 o'clock in the night, could I be able to go back home.
+
+To sum up, it is generally considered in the past that parents play an important role in cultivating children.However, nowadays, based on the metioned facts.We could infer that parents might have less time in accompany with their children.From my point, the life in school might influence children much more than parents do.
